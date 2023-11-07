@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "RefStatSite",
+    "title": "Bienvenue",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Bienvenue sur mon site de références statistiques en français. Vous y trouverez des outils, des tutoriels et des références sur de multiples sujets en statistiques dans le cadre de recherches universitaires.\nLes sujets des références proviennent des questions qui me sont posées dans le cadre de mon travail de consultante statistique à l’Université du Québec à Montréal (UQAM).\nLe site est en construction, donc des sujets vont s’ajouter au fur et à mesure. Si vous avez des demandes spéciales, n’hésitez pas à me contacter."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "À propos",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Je suis statisticienne professionnelle, certifiée P.Stat. de la Société Statistique du Canada (SSC), en milieu de recherche universitaire depuis plus de 15 ans.\nL’objectif de ce site est de fournir des outils de références en français pour faciliter l’utilisation et l’interprétation des statistiques dans le contexe de la recherche universitaire."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Références statistiques",
+    "section": "",
+    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Références statistiques",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
   }
 ]

@@ -1,11 +1,29 @@
 ---
-title: "RefStatSite"
+title: "Bienvenue"
+image: QuestionsStats.png
+toc: false
+about: 
+  template: marquee
+  image-shape: rectangle
+  image-width: 50em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jill-vandermeerschen-64327813/
+    - text: SCAD UQAM
+      href: https://scad.uqam.ca/
+    - text: GitHub
+      href: https://github.com/Jillvdm
+    - text: Email
+      href: mailto:vandermeerschen.jill@uqam.ca
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Bienvenue sur mon site de références statistiques en français. Vous y trouverez des outils, des tutoriels et des références sur de multiples sujets en statistiques dans le cadre de recherches universitaires. 
 
-```{r}
-1 + 1
-```
+Les sujets des références proviennent des questions qui me sont posées dans le cadre de mon travail de consultante statistique à l'Université du Québec à Montréal (UQAM). 
+
+Le site est en construction, donc des sujets vont s'ajouter au fur et à mesure. Si vous avez des demandes spéciales, n'hésitez pas à me contacter. 
+
+
+
+

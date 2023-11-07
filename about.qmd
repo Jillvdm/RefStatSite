@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "À propos"
 ---
 
-About this site
+Je suis statisticienne professionnelle, certifiée P.Stat. de la Société Statistique du Canada (SSC), en milieu de recherche universitaire depuis plus de 15 ans.
 
-```{r}
-1 + 1
-```
+L'objectif de ce site est de fournir des outils de références en français pour faciliter l'utilisation et l'interprétation des statistiques dans le contexe de la recherche universitaire.
